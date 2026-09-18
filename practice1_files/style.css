@@ -1,3 +1,18 @@
+@font-face{
+    font-family: "MinecraftFont";
+    src: url('Minecraft.ttf') format('truetype');
+}
+h1{
+    color:blue;
+    background-color:black;
+    width: max-content;
+}
+p{
+    color: black;
+    background-image:url("paragraph-background.jpeg");
+    font-family:"MinecraftFont";
+    font-size: large;
+}
 body {
     /* Tile the gif in both directions across the whole page */
     background-image: url("tucker_carlson_reaction.gif");
