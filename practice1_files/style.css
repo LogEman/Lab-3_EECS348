@@ -1,0 +1,7 @@
+body {
+    /* Tile the gif in both directions across the whole page */
+    background-image: url("/practice1_files/tucker_carlson_reaction.gif");
+    background-repeat: repeat;
+    /* Fallback color shown while the gif loads */
+    background-color: #ffffff;
+}
